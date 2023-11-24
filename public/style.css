@@ -1,0 +1,14 @@
+*{
+  background-color: #303030;
+  color:white;
+}
+
+.errorMessage{
+  color: red;
+  text-decoration: underline;
+}
+
+label{
+  display: block;
+  margin-bottom: 5px;
+}
